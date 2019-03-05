@@ -24,6 +24,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
         <!-- Spring Boot End -->
 
         <!-- Spring Cloud Begin -->

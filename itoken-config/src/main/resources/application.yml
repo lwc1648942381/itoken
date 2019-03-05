@@ -1,6 +1,6 @@
 spring:
   application:
-    name: itoken-config
+    name: itoken
   boot:
     admin:
       client:
@@ -10,7 +10,8 @@ spring:
       server:
         git:
           uri: https://github.com/lwc1648942381/itoken.git
-          search-paths: respo
+          searchpaths: respo
+          label: master
   zipkin:
     base-url: http://localhost:9411
 

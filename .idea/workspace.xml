@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a033c6e-2e40-4b92-8343-b04179f90b17" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itoken-config/respo/itoken-eureka-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itoken-config/respo/itoken-eureka-dev.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/itoken-admin/target/" />
@@ -22,7 +21,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/itoken-config/respo/itoken-eureka-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="255">
               <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
@@ -260,7 +259,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551758275217" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551758322869" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/itoken-zuul/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -356,7 +355,7 @@
       <workItem from="1551680378958" duration="4134000" />
       <workItem from="1551684650633" duration="11326000" />
       <workItem from="1551749374020" duration="2087000" />
-      <workItem from="1551752008388" duration="6033000" />
+      <workItem from="1551752008388" duration="6073000" />
     </task>
     <task id="LOCAL-00001" summary="加入依赖部署项目">
       <created>1551685235082</created>
@@ -404,7 +403,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28137000" />
+    <option name="totallyTimeSpent" value="28177000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -419,7 +418,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49882904" visible="true" weight="0.23592493" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49882904" visible="true" weight="0.23592493" />
       <window_info id="Structure" order="1" sideWeight="0.50117093" side_tool="true" weight="0.28241432" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -436,12 +435,12 @@
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.4858357" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.296034" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49798927" visible="true" weight="0.43201134" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49798927" weight="0.43201134" />
       <window_info anchor="bottom" id="TODO" order="15" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -714,7 +713,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itoken-config/respo/itoken-eureka-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="255">
           <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>

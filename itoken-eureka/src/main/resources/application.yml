@@ -5,7 +5,3 @@ spring:
       name: itoken-eureka
       label: master
       profile: dev
-
-
-server:
-  port: 8761

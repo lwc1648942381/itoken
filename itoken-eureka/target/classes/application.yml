@@ -1,4 +1,7 @@
+
 spring:
+  application:
+    name: itoken-eureka
   cloud:
     config:
       uri: http://localhost:8888

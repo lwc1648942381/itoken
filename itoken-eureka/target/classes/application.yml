@@ -5,3 +5,5 @@ spring:
       name: itoken-eureka
       label: master
       profile: dev
+  profiles:
+    active: dev

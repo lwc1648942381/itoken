@@ -11,7 +11,7 @@ spring:
         git:
           uri: https://github.com/lwc1648942381/itoken.git
           force-pull: true
-          search-paths: /respo
+          search-paths: respo
           username: 1648942381@qq.com
           password: luowangchang1997
   zipkin:

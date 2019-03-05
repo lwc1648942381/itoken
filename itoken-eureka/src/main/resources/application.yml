@@ -7,3 +7,5 @@ spring:
       profile: dev
 
 
+server:
+  port: 8761

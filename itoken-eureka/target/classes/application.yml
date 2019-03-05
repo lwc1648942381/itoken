@@ -1,14 +1,7 @@
-
 spring:
-  application:
-    name: itoken-eureka
   cloud:
     config:
       uri: http://localhost:8888
       name: itoken-eureka
       label: master
       profile: dev
-
-
-server:
-  port: 8761

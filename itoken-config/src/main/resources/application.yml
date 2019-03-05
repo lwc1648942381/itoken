@@ -7,11 +7,11 @@ spring:
         url: http://localhost:8084
   cloud:
     config:
-      label: master
       server:
         git:
-          uri: git@github.com:lwc1648942381/itoken.git
-          search-paths: respo
+          uri: https://github.com/lwc1648942381/itoken.git
+          force-pull: true
+          search-paths: /respo
           username: 1648942381@qq.com
           password: luowangchang1997
   zipkin:
@@ -24,6 +24,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka/
+
 
 management:
   endpoint:

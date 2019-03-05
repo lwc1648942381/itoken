@@ -5,3 +5,5 @@ spring:
       name: itoken-zipkin
       label: master
       profile: dev
+server:
+  port: 9411

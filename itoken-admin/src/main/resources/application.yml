@@ -5,3 +5,5 @@ spring:
       name: itoken-admin
       label: master
       profile: dev
+server:
+  port: 8084

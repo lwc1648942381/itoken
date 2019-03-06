@@ -1,6 +1,8 @@
 spring:
   application:
-    name: itoken
+    name: itoken-config
+  profiles:
+    active: dev
   boot:
     admin:
       client:
@@ -11,8 +13,8 @@ spring:
       server:
         git:
           uri: https://github.com/lwc1648942381/itoken.git
-          searchpaths: respo
-          username: 1648942381@qq.com
+          searchPaths: respo
+          username: lwc1648942381
           password: luowangchang1997
   zipkin:
     base-url: http://localhost:9411
@@ -22,9 +24,8 @@ server:
 
 eureka:
   client:
-    service-url:
+    serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-
 
 management:
   endpoint:

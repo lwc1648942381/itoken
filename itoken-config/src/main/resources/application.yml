@@ -1,6 +1,8 @@
 spring:
   application:
     name: itoken-config
+  profiles:
+    active: dev
   boot:
     admin:
       client:

@@ -1,6 +1,8 @@
 spring:
   application:
     name: itoken-eureka
+  profiles:
+    active: dev
   boot:
     admin:
       client:

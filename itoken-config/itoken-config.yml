@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: itoken-config
+  profiles:
+    active: dev
+  cloud:
+    config:
+      server:
+        git:
+          skipSslValidation: true
+          uri: https://github.com/lwc1648942381/itoken.git
+          username: luowangchang
+          password: luowangchang1997
+          search-paths: application
+      label: master
